@@ -49,5 +49,5 @@ Install dependencies:
    pip install -r requirements.txt
 ```
 Run the notebook:
-   * **Place video1.mp4 in the project root.
-   * **Open and execute crowd_density_estimation.ipynb.
+   * Place video1.mp4 in the project root.
+   * Open and execute crowd_density_estimation.ipynb.
