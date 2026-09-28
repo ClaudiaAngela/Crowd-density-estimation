@@ -43,3 +43,12 @@ Real-time human detection, tracking, and crowd density estimation from video str
    ```bash
    git clone [https://github.com/claudiajakab22/Crowd-density-estimation.git](https://github.com/claudiajakab22/Crowd-density-estimation.git)
    cd Crowd-density-estimation
+Install dependencies:
+
+Bash
+pip install -r requirements.txt
+Run the notebook:
+
+Place video1.mp4 in the project root.
+
+Open and execute crowd_density_estimation.ipynb.
